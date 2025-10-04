@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xnDVmhuY1hShmraPZ0LwuMjqhm8ZzakYMxd1cbgfWxY=",
+  "Source": "SigestProAPI",
+  "BasePath": "_content/SigestProAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
